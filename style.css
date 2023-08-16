@@ -1,0 +1,10 @@
+img {
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
